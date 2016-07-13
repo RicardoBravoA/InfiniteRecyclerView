@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InifiniteRecyclerView</string>
+    <string name="retry">Reintentar</string>
+</resources>
